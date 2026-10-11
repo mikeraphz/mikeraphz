@@ -1,3 +1,10 @@
+
+
+<p align="center">
+  <img src="./banner.png" width="100%" alt="mikeraphz — Web Development and Game Development" />
+</p>
+
+
 # mikeraphz
 
 *Learning by building.*
