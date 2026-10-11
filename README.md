@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="mikeraphz — Web Development and Game Development" />
+  <img src="./Banner.jpg" width="100%" alt="mikeraphz — Web Development and Game Development" />
 </p>
 
 
